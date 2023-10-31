@@ -1,0 +1,28 @@
+/* افزایش اندازه دکمه "تبدیل به صدا" */
+#speak-button {
+	font-size: 20px;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	background-color: #ff6600;
+	color: white;
+	cursor: pointer;
+}
+
+/* تغییر اندازه فونت متن در باکس ورودی */
+#text-to-speech {
+	width: 80%;
+	padding: 10px;
+	font-size: 22px; /* اندازه فونت را افزایش دهید */
+	border: none;
+	border-radius: 5px;
+}
+
+.container {
+	text-align: center;
+	padding: 20px;
+}
+
+body {
+	background-color: #39b4aa;
+}
